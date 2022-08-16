@@ -20,4 +20,11 @@ public class Customer {
         this. mobile = mobile;
         this.isPremium = isPremium;
     }
+    public void displayCustomer(){
+        System.out.println("name = " + name);
+        System.out.println("address = " + address);
+        System.out.println("email = " + email);
+        System.out.println("mobile = " + mobile);
+        System.out.println("isPremium = " + isPremium);
+    }
 }
