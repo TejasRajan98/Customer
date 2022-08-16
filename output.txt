@@ -1,0 +1,14 @@
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" -javaagent:C:\Users\Tejas\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\lib\idea_rt.jar=49791:C:\Users\Tejas\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\bin -Dfile.encoding=UTF-8 -classpath "D:\Tejas Work\NIIT\Week 6\Day 26\Customer\out\production\Customer" main.CustomerImpl
+name = null
+address = null
+email = null
+mobile = 0
+isPremium = false
+
+name = Tejas
+address = Delhi
+email = tejas@yahoo.com
+mobile = 9876543210
+isPremium = true
+
+Process finished with exit code 0
